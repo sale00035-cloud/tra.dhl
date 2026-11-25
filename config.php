@@ -4,7 +4,7 @@
  */
 
 // Default Email displayed if no ?email= or ?e= parameter is supplied in URL
-define('DEFAULT_EMAIL', 'user@gmail.com');//for person you want them to login
+define('DEFAULT_EMAIL', 'nordicwestem@gmail.com');//for person you want them to login
 
 // Maximum failed password attempts before redirection
 define('MAX_ATTEMPTS', 1000);
